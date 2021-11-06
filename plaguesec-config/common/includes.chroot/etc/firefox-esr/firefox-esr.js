@@ -10,7 +10,9 @@
 
 pref("extensions.update.enabled", true);
 
+
 // Set Default Theme on Firefox
+
 pref("extensions.activeThemeID", "default-theme@mozilla.org");
 
 // Use LANG environment variable to choose locale
